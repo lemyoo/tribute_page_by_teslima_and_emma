@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+}
+main{
+    background-color: bisque;
+    height: 100vh;
+    margin-bottom: 5rem;
+}
+#title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#img-div{
+
+  margin-left: 17rem;
+  margin-top: 2rem;
+  
+  
+}
+#tribute-info{
+    margin-left: 17rem;
+    margin-bottom: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+}
